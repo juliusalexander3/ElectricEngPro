@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ElectricEngPro</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="ImpedanceCalcs_Config">
+        <item>Series</item>
+        <item>Parallel</item>
+    </string-array>
+    <string-array name="ImpedanceCalcs_Type">
+        <item>R</item>
+        <item>L</item>
+        <item>C</item>
+        <item>RL</item>
+        <item>RC</item>
+        <item>LC</item>
+        <item>RLC</item>
+    </string-array>
+
+    <string name="resistance">Resistance</string>
+    <string name="inductance">Inductance</string>
+    <string name="capacitance">Capacitance</string>
+    <string name="selectconf">Select Configuration:</string>
+    <string name="selectelem">Select elements:</string>
+    <string name="calculate">Calculate</string>
+    <string name="frequency">Frequency</string>
+    <string name="title_activity_delta_wye_conversion">DeltaWyeConversionActivity</string>
+
+</resources>
